@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-automation-pack-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-automation-pack",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_automation_pack_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-automation-pack.md",
+  "presentationPlan": "projects/accounting/flutter/accounting-automation-pack.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
